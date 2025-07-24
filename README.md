@@ -17,7 +17,7 @@ func main() {
 
 	fmt.Printf("Developer profile:\n%+v\n", dev)
 }
-}
+
 ```
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?color=181717&label=GitHub&logo=github&query=%24.login&url=https%3A%2F%2Fapi.github.com%2Fusers%2FUso1and)](https://github.com/Uso1and)
