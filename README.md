@@ -18,7 +18,7 @@ func main() {
 }
 ```
 
-[![Linkedin: Uso1and](https://img.shields.io/badge/-Uso1and-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Uso1and/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub](https://img.shields.io/badge/dynamic/json?color=181717&label=GitHub&logo=github&query=%24.login&url=https%3A%2F%2Fapi.github.com%2Fusers%2FUso1and)](https://github.com/Uso1and)
 
 
 ---
