@@ -8,13 +8,13 @@
 
 ```javascript
 func main() {
-	thai := Thai{
-		Pronouns: SheHer,
-		Code:     []string{"Golang", "Javascript", "HTML", "CSS"},
+	dev := Developer{
+		Pronouns: HeHim, 
+		Code:     []string{"Golang", "JavaScript", "HTML", "CSS"},
 		Tools:    []string{"Gin", "Docker", "Swagger", "CI/CD", "Redis", "Kafka"},
 	}
 
-	fmt.Printf("%+v\n", thai)
+	fmt.Printf("Developer profile:\n%+v\n", dev)
 }
 ```
 [![Linkedin: Uso1and](https://img.shields.io/badge/-Uso1and-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Uso1and/)](https://www.linkedin.com/in/thaianebraga/)
