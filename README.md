@@ -11,10 +11,12 @@ func main() {
 	dev := Developer{
 		Pronouns: HeHim, 
 		Code:     []string{"Golang", "JavaScript", "HTML", "CSS"},
-		Tools:    []string{"Gin", "Docker", "Swagger", "CI/CD", "Redis", "Kafka"},
+		Tools: []string{ "Gin", "Docker", "Swagger","CI/CD", 
+		"Redis", "Kafka" },
 	}
 
 	fmt.Printf("Developer profile:\n%+v\n", dev)
+}
 }
 ```
 
