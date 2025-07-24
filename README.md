@@ -20,7 +20,6 @@ func main() {
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?color=181717&label=GitHub&logo=github&query=%24.login&url=https%3A%2F%2Fapi.github.com%2Fusers%2FUso1and)](https://github.com/Uso1and)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Uso1and)](https://github.com/Uso1and)
-[![PR Stats](https://github-readme-stats.vercel.app/api/pin/?username=LuckyFoxCode&repo=todo-js)](https://github.com/LuckyFoxCode/todo-js)
+
 
 ---
